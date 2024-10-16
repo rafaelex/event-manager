@@ -12,11 +12,11 @@ Event Manager is a RESTful API built with Spring Boot that allows a frontend app
   Maven
 
 ## How to Run the Project
-**1. Clone the repository:**
+1. Clone the repository:
   git clone https://github.com/rafaelex/event-manager.git
-**2. Navigate to the directory:**
+2. Navigate to the directory:
   cd event-manager
-**3. Run the project using Maven:**
+3. Run the project using Maven:
   ./mvnw spring-boot:run
 
   ## Tool for testing the API
